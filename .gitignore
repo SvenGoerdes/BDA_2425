@@ -1,1 +1,5 @@
 alpha_vantage_key.txt
+poetry.lock
+pyproject.toml
+20250401191500.gkg.csv
+preprocessed_gkg.csv
