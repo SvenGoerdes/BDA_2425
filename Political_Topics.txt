@@ -1,0 +1,41 @@
+ACT_MAKESTATEMENT
+APPOINTMENT
+CONSTITUTIONAL
+CORRUPTION
+DEATH_PENALTY
+DEFECTION
+DEMOCRACY
+ELECTION and ELECTION_FRAUD
+EXILE
+EXTREMISM
+FREESPEECH
+HATE_SPEECH
+IMPEACHMENT
+JUSTICE
+LEGISLATION
+POLITICAL_TURMOIL
+PROTEST
+RATIFY
+REBELLION and REBELS
+RESIGNATION
+STATE_OF_EMERGENCY
+SURVEILLANCE
+TRIAL
+VETO
+VIOLENT_UNREST
+WHISTLEBLOWER
+WMD
+NEGOTIATIONS
+PERSECUTION
+MEDIA_CENSORSHIP
+PROPAGANDA
+SEPARATIST
+GOV_LOCALGOV
+GOV_REFORM
+GOV_REPATRIATION
+
+(All topics under USPEC_* such as USPEC_POLICY1, USPEC_POLITICS_GENERAL1, and USPEC_UNCERTAINTY1)
+(Broadly, the EPU_CATS_* and EPU_POLICY_* topics cover fiscal, regulatory, and national security policies—all central to political decision‐making)
+(Similarly, many WB_* topics pertain to legal frameworks, government procurement, judicial appointments, and other governance matters
+litical Parties & Political Roles
+TAX_POLITICAL_PARTY (and its various subcategories)
