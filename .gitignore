@@ -3,3 +3,4 @@ poetry.lock
 pyproject.toml
 20250401191500.gkg.csv
 preprocessed_gkg.csv
+sp500.csv
