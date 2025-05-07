@@ -1,5 +1,18 @@
 alpha_vantage_key.txt
 poetry.lock
 pyproject.toml
+<<<<<<< HEAD
+
+# CSV files ignore
+BCHUSD_5m.csv
+preprocessed_gkg.csv
+20250401191500.gkg.csv
+=======
 20250401191500.gkg.csv
 preprocessed_gkg.csv
+
+
+# csv files 
+sp500.csv
+BCHUSD_5m.csv
+>>>>>>> 85fb43c (update gitignore)
