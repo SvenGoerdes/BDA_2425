@@ -11,3 +11,5 @@ preprocessed_gkg.csv
 sp500.csv
 
 
+#venvs
+tm/
